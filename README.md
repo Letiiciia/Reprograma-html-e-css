@@ -34,7 +34,7 @@ Aqui vai muito texto, um parágrafo
 
 # Estrutura básica
 
-
+![images](https://github.com/Letiiciia/exercicio1-reprograma/blob/master/images.png)
 
 Iniciando o código básico de HTML
 O documento HTML sempre inicia com o que chamamos de estrutura básica. Esta estrutura é quase que imutável. Sempre será dessa forma e você sempre, sempre começará seu HTML começando por esse código. Geralmente os editores como o Sublime Text já tem atalhos para iniciar os documentos HTMLs com essa estrutura, logo, você não precisa se preocupar em decorá-la, mas é bom que faça. Veja abaixo como ela se inicia:
