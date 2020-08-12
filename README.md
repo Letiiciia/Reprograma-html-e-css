@@ -76,6 +76,8 @@ Fonte:https://tableless.github.io/iniciantes/manual/html/estruturabasica.html
 
 # O que é CSS?
 
+![download](https://github.com/Letiiciia/exercicio1-reprograma/blob/master/download.jpg)
+
 O Cascading Style Sheets (CSS) é uma linguagem utilizada para definir a apresentação (aparência) de documentos que adotam para o seu desenvolvimento linguagens de marcação (como XML, HTML e XHTML e etc..). O CSS define como serão exibidos os elementos contidos no código de um documento e sua maior vantagem é efetuar a separação entre o formato e o conteúdo de um documento.
 
 Por que o CSS foi criado?
