@@ -7,14 +7,14 @@
 
 <p>
 O HTML é a linguagem que irá exibir a informação. Além de exibir a informação, ela dá significado. Isso é importante por que alguns sistemas como o Google, que irão ler sua página, precisam entender o que é cada elemento nela e o que cada um desses elementos significam.
-<p>
+
 
 # O nome HTML
-<p>
+
 O acrônico HTML significa em inglês: HyperText Markup Language. Para gente aqui fica: Linguagem de Marcação de Hipertexto. Bonito, né?
 Por trás das palavras Hipertexto e Marcação tem muita história e guardam a real essência da função do HTML. 
 Se você tiver que guardar alguma coisa sobre o que é HTML, guarde isso: HTML serve para dar significado e organizar a informação dos websites.
-<p>
+
 
 Marcação
 Já que o HTML serve para dar significado para a informação, como ele faz isso? Simples: ele marca a informação com as tags.
@@ -32,6 +32,7 @@ Aqui vai muito texto, um parágrafo
 
 Fonte:https://tableless.github.io/iniciantes/manual/html/index.html
 
+<p>
 
 # Estrutura básica
 
