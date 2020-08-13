@@ -10,11 +10,11 @@ O HTML é a linguagem que irá exibir a informação. Além de exibir a informa�
 <p>
 
 # O nome HTML
-
+<p>
 O acrônico HTML significa em inglês: HyperText Markup Language. Para gente aqui fica: Linguagem de Marcação de Hipertexto. Bonito, né?
 Por trás das palavras Hipertexto e Marcação tem muita história e guardam a real essência da função do HTML. 
 Se você tiver que guardar alguma coisa sobre o que é HTML, guarde isso: HTML serve para dar significado e organizar a informação dos websites.
-
+<p>
 
 Marcação
 Já que o HTML serve para dar significado para a informação, como ele faz isso? Simples: ele marca a informação com as tags.
