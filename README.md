@@ -5,11 +5,9 @@
 
 É a linguagem base dos websites
 
-Camadas de desenvolvimento:
-Existem 3 linguagens básicas que utilizamos para criar websites: HTML, CSS e JavaScript.
-O HTML é a linguagem que irá exibir a informação. O CSS é a linguagem que vai deixar essa informação bonitona. O JavaScript é a linguagem que vai fazer essa informação receber alguns comportamentos, como por exemplo ao criar um submenu ou controlar algo que aparece e desaparece na tela.
-
-O HTML sem dúvida é a mais importante de todas, por que como dissemos no começo, é ela que exibe a informação. Além de exibir a informação, ela dá significado. Isso é importante por que alguns sistemas como o Google, que irão ler sua página, precisam entender o que é cada elemento nela e o que cada um desses elementos significam.
+<p>
+O HTML é a linguagem que irá exibir a informação. Além de exibir a informação, ela dá significado. Isso é importante por que alguns sistemas como o Google, que irão ler sua página, precisam entender o que é cada elemento nela e o que cada um desses elementos significam.
+<p>
 
 # O nome HTML
 
