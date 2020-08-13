@@ -3,17 +3,16 @@
 
 ![download](https://github.com/Letiiciia/exercicio1-reprograma/blob/master/Img/download.png)
 
-É a linguagem base dos websites
+<h1>É a linguagem base dos websites</h1>
 
-<p>
-O HTML é a linguagem que irá exibir a informação. Além de exibir a informação, ela dá significado. Isso é importante por que alguns sistemas como o Google, que irão ler sua página, precisam entender o que é cada elemento nela e o que cada um desses elementos significam.
+<p>O HTML é a linguagem que irá exibir a informação. Além de exibir a informação, ela dá significado. Isso é importante por que alguns sistemas como o Google, que irão ler sua página, precisam entender o que é cada elemento nela e o que cada um desses elementos significam.</p>
 
 
 # O nome HTML
 
-O acrônico HTML significa em inglês: HyperText Markup Language. Para gente aqui fica: Linguagem de Marcação de Hipertexto. Bonito, né?
+<p>O acrônico HTML significa em inglês: HyperText Markup Language. Para gente aqui fica: Linguagem de Marcação de Hipertexto. Bonito, né?
 Por trás das palavras Hipertexto e Marcação tem muita história e guardam a real essência da função do HTML. 
-Se você tiver que guardar alguma coisa sobre o que é HTML, guarde isso: HTML serve para dar significado e organizar a informação dos websites.
+Se você tiver que guardar alguma coisa sobre o que é HTML, guarde isso: HTML serve para dar significado e organizar a informação dos websites.</p>
 
 
 Marcação
