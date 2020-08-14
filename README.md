@@ -1,5 +1,5 @@
 ### exercicio1-Reprograma
-<title># HTML</title>
+# HTML
 <p align="center">
 <img src="https://github.com/Letiiciia/exercicio1-reprograma/blob/master/Img/download.png">
 </p>
