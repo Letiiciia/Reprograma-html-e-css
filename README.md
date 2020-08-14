@@ -38,7 +38,7 @@ Fonte:https://tableless.github.io/iniciantes/manual/html/index.html
 # Estrutura básica
 
 <p align="center">
-<img src="(https://github.com/Letiiciia/exercicio1-reprograma/blob/master/Img/images.png">
+<img src="https://github.com/Letiiciia/exercicio1-reprograma/blob/master/Img/images.png">
 </p>
 
 <p>Iniciando o código básico de HTML
@@ -80,7 +80,7 @@ Fonte:https://tableless.github.io/iniciantes/manual/html/estruturabasica.html
 # O que é CSS?
 
 <p align="center">
-<img src="(https://github.com/Letiiciia/exercicio1-reprograma/blob/master/Img/download.jpg">
+<img src="https://github.com/Letiiciia/exercicio1-reprograma/blob/master/Img/download.jpg">
 </p>
 
 <p>O Cascading Style Sheets (CSS) é uma linguagem utilizada para definir a apresentação (aparência) de documentos que adotam para o seu desenvolvimento linguagens de marcação (como XML, HTML e XHTML e etc..). O CSS define como serão exibidos os elementos contidos no código de um documento e sua maior vantagem é efetuar a separação entre o formato e o conteúdo de um documento.</p>
