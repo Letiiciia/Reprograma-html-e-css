@@ -1,7 +1,8 @@
 ### exercicio1-Reprograma
 # HTML
-
-![download](https://github.com/Letiiciia/exercicio1-reprograma/blob/master/Img/download.png)
+<p align="center">
+<img src="https://github.com/Letiiciia/exercicio1-reprograma/blob/master/Img/download.png">
+</p>
 
 <h1>É a linguagem base dos websites</h1>
 
