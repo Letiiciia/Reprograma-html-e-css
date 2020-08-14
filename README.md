@@ -37,7 +37,9 @@ Fonte:https://tableless.github.io/iniciantes/manual/html/index.html
 
 # Estrutura básica
 
-![images](https://github.com/Letiiciia/exercicio1-reprograma/blob/master/Img/images.png)
+<p align="center">
+<img src="(https://github.com/Letiiciia/exercicio1-reprograma/blob/master/Img/images.png">
+</p>
 
 <p>Iniciando o código básico de HTML
 O documento HTML sempre inicia com o que chamamos de estrutura básica. Esta estrutura é quase que imutável. Sempre será dessa forma e você sempre, sempre começará seu HTML começando por esse código. Geralmente os editores como o Sublime Text já tem atalhos para iniciar os documentos HTMLs com essa estrutura, logo, você não precisa se preocupar em decorá-la, mas é bom que faça. Veja abaixo como ela se inicia:</p>
@@ -77,7 +79,9 @@ Fonte:https://tableless.github.io/iniciantes/manual/html/estruturabasica.html
 
 # O que é CSS?
 
-![download](https://github.com/Letiiciia/exercicio1-reprograma/blob/master/Img/download.jpg)
+<p align="center">
+<img src="(https://github.com/Letiiciia/exercicio1-reprograma/blob/master/Img/download.jpg">
+</p>
 
 <p>O Cascading Style Sheets (CSS) é uma linguagem utilizada para definir a apresentação (aparência) de documentos que adotam para o seu desenvolvimento linguagens de marcação (como XML, HTML e XHTML e etc..). O CSS define como serão exibidos os elementos contidos no código de um documento e sua maior vantagem é efetuar a separação entre o formato e o conteúdo de um documento.</p>
 
